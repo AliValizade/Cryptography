@@ -83,22 +83,17 @@ pip install pycryptodome pandas matplotlib
 python des_avalanche_analysis.py
 ```
 ‍‍‍
-```text
 The script will:
 - Flip random bits in plaintext and key
 - Compute Hamming distances between ciphertexts
 - Display data in tabular format
 - Generate the comparison chart (des_avalanche_analysis.png)
 
-📚 References
-- C. E. Shannon, “Communication Theory of Secrecy Systems,” Bell System Technical Journal, 1949.
-- FIPS PUB 46-3, Data Encryption Standard (DES), National Institute of Standards and Technology.
 
 Author: Ali Valizadeh  
-Course / Project: Applied Cryptography — DES Avalanche Analysis  
+Applied Cryptography — DES Avalanche Analysis  
 Language: Python 3  
 Libraries: pycryptodome, pandas, matplotlib
-```
 
 
 
